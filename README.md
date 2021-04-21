@@ -3,9 +3,13 @@
 ##### Here is some fun information about me:
 
 🔭 I’m currently working on [Headmate Helper](https://github.com/Jennserene/HeadmateHelper)
+
 🌱 I’m currently learning Python
+
 💬 Ask me about Psychology or Gaming
+
 😄 Pronouns: they/them or she/her
+
 ⚡ Fun fact: the 'Serene' in my username is actually my middle name.
 
 <!--
