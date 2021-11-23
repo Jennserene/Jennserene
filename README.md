@@ -4,9 +4,9 @@
 
 🔭 I’m currently working on [Headmate Helper](https://github.com/Jennserene/HeadmateHelper)
 
-🌱 I’m currently learning Python
+🌱 I’m currently searching for a job
 
-💬 Ask me about Psychology or Gaming
+💬 Ask me about Psychology, Astrophysics, or Gaming
 
 😄 Pronouns: they/them or she/her
 
