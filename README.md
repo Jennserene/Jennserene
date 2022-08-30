@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Headmate Helper](https://github.com/Jennserene/HeadmateHelper)
 
-🌱 I’m currently searching for a job
+🌱 I’m currently working for 8th Light as an Apprentice
 
 💬 Ask me about Psychology, Astrophysics, or Gaming
 
