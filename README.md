@@ -2,13 +2,13 @@
 
 ##### Here is some fun information about me:
 
-🔭 I’m currently working on [Headmate Helper](https://github.com/Jennserene/HeadmateHelper)
+🔭 I’m currently working on [Media Wishlist](https://github.com/Jennserene/MediaWishlist)
 
 🌱 I’m currently working for 8th Light as an Apprentice
 
 💬 Ask me about Psychology, Astrophysics, or Gaming
 
-😄 Pronouns: they/them or she/her
+😄 Pronouns: they/them
 
 ⚡ Fun fact: the 'Serene' in my username is actually my middle name.
 
