@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Media Wishlist](https://github.com/Jennserene/MediaWishlist)
 
-🌱 I’m currently working for 8th Light as an Apprentice
+🌱 I’m currently working for 8th Light as a Crafter
 
 💬 Ask me about Psychology, Astrophysics, or Gaming
 
