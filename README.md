@@ -6,6 +6,8 @@
 
 🌱 I’m currently working for 8th Light as a Crafter
 
+🗣️ I have a side gig as a Public Speaker
+
 💬 Ask me about Psychology, Astrophysics, or Gaming
 
 😄 Pronouns: they/them
