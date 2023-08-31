@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Serenia Studios](https://sereniastudios.com)
 
-🌱 I’m currently working for 8th Light as a Crafter
+🌱 I’m currently working for 8th Light as a Software Crafter
 
 🗣️ I have a side gig as a Public Speaker
 
